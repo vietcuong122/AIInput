@@ -1,0 +1,14 @@
+com/aiinput/MainActivity.java
+ com.aiinput.MainActivity
+com/aiinput/BuildConfig.java
+ com.aiinput.BuildConfig
+com/aiinput/MainApplication.java
+ com.aiinput.MainApplication
+ com.aiinput.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/aiinput/ReactNativeFlipper.java
+ com.aiinput.ReactNativeFlipper
+ com.aiinput.ReactNativeFlipper$1
+ com.aiinput.ReactNativeFlipper$2
+ com.aiinput.ReactNativeFlipper$2$1

@@ -1,0 +1,6 @@
+module Pods_AIInput {
+  umbrella header "Pods-AIInput-umbrella.h"
+
+  export *
+  module * { export * }
+}

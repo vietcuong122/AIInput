@@ -1,0 +1,6 @@
+module Pods_AIInput_AIInputTests {
+  umbrella header "Pods-AIInput-AIInputTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
